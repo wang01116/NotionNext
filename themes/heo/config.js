@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到玄学小站', url: 'https://wushu.wangcy.my' },
-    { title: '看看作者的更多内容', url: 'https://wangcy.my' }
+    { title: '欢迎来到玄学小站', url: 'https://wushu.us.kg/about?theme=heo' },
+    { title: '看看作者的更多内容', url: 'https://wushu.us.kg/about?theme=heo' }
   ],
 
   // 英雄区左右侧组件颠倒位置
