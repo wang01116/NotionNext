@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '仙家初识', url: 'https://wushu-pi.vercel.app/article/xian' },
-  HEO_HERO_CATEGORY_2: { title: '玄学书籍', url: 'https://wushu-pi.vercel.app/article/book' },
-  HEO_HERO_CATEGORY_3: { title: '神奇法脉', url: 'https://wushu-pi.vercel.app/article/famai' },
+  HEO_HERO_CATEGORY_1: { title: '仙家初识', url: 'https://wushu-pi.vercel.app/article/xian?theme=heo' },
+  HEO_HERO_CATEGORY_2: { title: '玄学书籍', url: 'https://wushu-pi.vercel.app/article/book?theme=heo' },
+  HEO_HERO_CATEGORY_3: { title: '神奇法脉', url: 'https://wushu-pi.vercel.app/article/famai?theme=heo' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
