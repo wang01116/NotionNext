@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'WUSHU.WANGCY.MY',
   HEO_HERO_TITLE_4: '点开阅读',
   HEO_HERO_TITLE_5: '关于本站的相关内容',
-  HEO_HERO_TITLE_LINK: 'https://wushu.wangcy.my',
+  HEO_HERO_TITLE_LINK: 'https://wushu.us.kg?theme=heo',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
