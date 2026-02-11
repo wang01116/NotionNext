@@ -8,9 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到玄学小站', url: 'https://wushu.dpdns.org' },
-    { title: '打开后请“刷新”获取最新内容', url: 'https:///wushu.dpdns.org' },
-    { title: '刷新后等待片刻，等待内容加载', url: 'https:///wushu.dpdns.org' },
+    { title: '🧨欢迎来到玄学小站🧨', url: 'https://wushu.dpdns.org' },
+    { title: '🔃请“刷新”获取最新内容🔃', url: 'https:///wushu.dpdns.org' },
+    { title: '等待内容加载', url: 'https:///wushu.dpdns.org' },
     { title: '如果仍未解决，请联系本站', url: 'https:///wushu.dpdns.org' }
   ],
 
