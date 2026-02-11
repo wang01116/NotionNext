@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到玄学小站', url: 'https://wushu.wangcy.my/about?theme=heo' },
-    { title: '打开后请“刷新”获取最新内容', url: 'https://wushu.wangcy.my/about?theme=heo' }
+    { title: '欢迎来到玄学小站', url: 'https://wushu.dpdns.org' },
+    { title: '打开后请“刷新”获取最新内容', url: 'https:///wushu.dpdns.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '玄学书籍', url: 'https://wushu.wangcy.my/article/book?theme=heo' },
-  HEO_HERO_CATEGORY_2: { title: '玄学小说', url: 'https://wushu.wangcy.my/article/fiction?theme=heo' },
-  HEO_HERO_CATEGORY_3: { title: '玄学杂谈', url: 'https://wushu.wangcy.my/article/zatan?theme=heo' },
+  HEO_HERO_CATEGORY_1: { title: '📕玄学基础', url: 'https://wushu.dpdns.org/category/📕基础' },
+  HEO_HERO_CATEGORY_2: { title: '☯️卜术学习', url: 'https://wushu.dpdns.org/category/☯️卜术' },
+  HEO_HERO_CATEGORY_3: { title: '📚经典解读', url: 'https://wushu.dpdns.org/category/📚经典' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -40,10 +40,10 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '这里有：',
-    '🔍 玄学研究',
+    '📕 玄学基础',
     '🤝 心得分享',
-    '🏃 五术交流',
-    '🏠 仙家道门',
+    '☯️ 五术学习',
+    '📚 经典解读',
     '🤖️ 玄学书籍',
     '🧱 玄幻小说'
   ],
