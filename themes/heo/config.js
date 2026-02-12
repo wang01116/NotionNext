@@ -31,7 +31,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '📕玄学基础', url: 'https://wushu.dpdns.org/category/📕基础' },
-  HEO_HERO_CATEGORY_2: { title: '☯️卜术学习', url: 'https://wushu.dpdns.org/category/☯️卜术' },
+  HEO_HERO_CATEGORY_2: { title: '☯️卜术学习', url: 'https://wushu.dpdns.org/category/☯️五术' },
   HEO_HERO_CATEGORY_3: { title: '📚经典解读', url: 'https://wushu.dpdns.org/category/📚经典' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
