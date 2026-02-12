@@ -7,8 +7,9 @@
 const Style = () => {
   return (
     <style jsx global>{`
+      // 右侧菜单栏颜色
       body {
-        background-color: #f7f9fe;
+        background-color: #22a6b3;
       }
 
       // 公告栏中的字体固定白色
